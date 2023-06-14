@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @perseul
-- 👀 I’m interested in learn everyday something new
-- 🌱 I’m currently learning ReatcJS, NodeJS
 - 📫 How to reach me - perseulmeira@icloud - KiraKira#5969 on Discord
 
 - e já trabalhei com diversas tecnologias sejam de front-end, back-end ou banco de dados relacionais e não relacionais
