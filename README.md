@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @perseul
-- 📫 How to reach me - perseulmeira@icloud - yere5969 on Discord
+- 📫 How to reach me - perseulmeira@icloud
 
 - I am a developer on Interplayers enterprise
 
